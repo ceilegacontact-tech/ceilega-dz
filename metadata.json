@@ -1,0 +1,6 @@
+{
+  "name": "CEILEGA",
+  "description": "منصة جزائرية رائدة في التعليم المكثف للغات القانونية، موجهة للمهنيين والطلاب الطامحين نحو التميز والاحترافية",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
